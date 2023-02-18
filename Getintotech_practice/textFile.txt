@@ -1,0 +1,2 @@
+this is my practice with creating a file in VI and editing it
+now im putting some more stuff in yay its working 
